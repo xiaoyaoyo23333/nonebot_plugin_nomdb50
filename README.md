@@ -1,8 +1,8 @@
 # nonebot_plugin_nomdb50
 # 📝 插件介绍
 
-这是一个 NoneBot2 插件，
 当用户发送mdb50、moeb50、mdcp stella或mdcp rank时，bot从随机回复池挑选一句进行回复
+（偏个人用代码）
 
 # ✨ 功能特点
 
